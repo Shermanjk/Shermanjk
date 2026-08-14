@@ -108,7 +108,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://shermanjk.github.io/Shermanjk/github-contribution-grid-snake.svg" alt="Snake Animation" />
+ <img src="https://raw.githubusercontent.com/Shermanjk/Shermanjk/gh-pages/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
