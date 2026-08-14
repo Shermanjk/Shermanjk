@@ -100,7 +100,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shermanjk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shermanjk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Shermanjk&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
