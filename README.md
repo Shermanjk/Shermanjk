@@ -1,5 +1,5 @@
 <!-- 👋 Intro Section -->
-<h1 align="center">Hi there!👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F2C355&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+awesome+things+%F0%9F%9A%80;Always+learning+new+tech" alt="Typing Animation" />
 </p>
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Vercel-%23222222?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=%232b2b2b" />
   <img src="https://img.shields.io/badge/Render-%23222222?style=for-the-badge&logo=render&logoColor=46E3B7&labelColor=%232b2b2b" />
   <img src="https://img.shields.io/badge/Cursor-%23222222?style=for-the-badge&logo=cursor&logoColor=5F5FFF&labelColor=%232b2b2b" />
-  <img src="https://img.shields.io/badge/Copilot-%23222222?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&labelColor=%232b2b2b" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-%23222222?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&labelColor=%232b2b2b" />
   <img src="https://img.shields.io/badge/ChatGPT-%23222222?style=for-the-badge&logo=openai&logoColor=10A37F&labelColor=%232b2b2b" />
   <br>
   <sub><code>PROFICIENT</code> &nbsp; Git • GitHub • Postman • VS Code • Vercel • Render • ChatGPT &nbsp;|&nbsp; <code>FAMILIAR</code> &nbsp; Figma • Cursor • Copilot</sub>
@@ -100,15 +100,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shermanjk&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=F2C355&iconColor=F2C355" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shermanjk&theme=tokyonight&background=1a1a1a&ring=F2C355&fire=F2C355&currStreakLabel=F2C355" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shermanjk&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=F2C355&iconColor=F2C355" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shermanjk&theme=tokyonight&background=1a1a1a&ring=F2C355&fire=F2C355&currStreakLabel=F2C355" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Shermanjk/Shermanjk/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Shermanjk/Shermanjk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
