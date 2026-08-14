@@ -108,7 +108,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://github.com/Shermanjk/Shermanjk/blob/main/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
